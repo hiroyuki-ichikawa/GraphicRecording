@@ -8,6 +8,9 @@
 ライセンスは、CC by 4.0 SAでオープンデータとして公開しますので
 グラレコを人に説明するときにご利用ください。
 
+![SocialTechnologyOfficer](https://github.com/hiroyuki-ichikawa/GraphicRecording/blob/master/%E3%82%B0%E3%83%A9%E3%83%AC%E3%82%B3%E4%BE%8B/SocialTechnologyOfficer.jpg "サンプル1")
+
+
 市川電産の研修を受けた方や、さらに内容を理解いただき
 改善版を作り上げたい方など是非ご利用ください。
 
